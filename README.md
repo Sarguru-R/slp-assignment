@@ -18,7 +18,7 @@ The code for a straightforward Python dependency parser that makes use of SpaCy 
 1. Clone the repository:
 
     ```Terminal
-    git clone https://github.com/gokulnath118/Dependency_Parser.git
+    git clone https://github.com/sarguru-r/slp-assignment/
 
 2. Create a Virtual Environment:
 
@@ -41,5 +41,5 @@ The code for a straightforward Python dependency parser that makes use of SpaCy 
 
 6. get the app:
 
-    Access the app in your web browser at `http://localhost:8501`.
+    Access the app in your web browser at `(https://dependancy-parshing.streamlit.app/)https://dependancy-parshing.streamlit.app/`.
 
