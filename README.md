@@ -41,5 +41,5 @@ The code for a straightforward Python dependency parser that makes use of SpaCy 
 
 6. get the app:
 
-    Access the app in your web browser at `(https://dependancy-parshing.streamlit.app/)https://dependancy-parshing.streamlit.app/`.
+    Access the app in your web browser at `https://717821i150-dependancy-parshing.streamlit.app/`.
 
